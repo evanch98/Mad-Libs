@@ -1,6 +1,6 @@
 #Read in the text files and lets the user add their own text anywhere the word ADJECTIVE, NOUN, ADVERB, or VERB appears in the text file.
 
-#open an exsiting text file to read it's content
+#open an exsiting text file to read its content
 madLibs = open('madLibsRaw.txt', 'r')
 
 content = madLibs.read()
