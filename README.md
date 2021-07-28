@@ -4,4 +4,3 @@ This program reads an existing text file and whenever the words like ADJECTIVE, 
 Then, the program will write a text file replaced with user words in ADJECTIVE, VERB, NOUN.
 The code may not be perfect.
 Sample text files are in the Sample Text folder.
-100% Python.
